@@ -99,7 +99,7 @@ export default function Hero() {
 
 				<div className="relative w-full h-87.5 md:h-125">
 					<Image
-						src="/programming-guy.png"
+						src="/programming-pana.png"
 						alt="Developer illustration"
 						fill
 						className="object-contain"
